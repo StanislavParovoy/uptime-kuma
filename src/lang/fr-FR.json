@@ -1097,5 +1097,6 @@
     "RabbitMQ Password": "Mot de passe RabbitMQ",
     "rabbitmqHelpText": "Pour utiliser la sonde, vous devrez activer le plug-in de gestion dans votre configuration RabbitMQ. Pour plus d'informations, veuillez consulter la {rabitmq_documentation}.",
     "SendGrid API Key": "Clé API SendGrid",
-    "Separate multiple email addresses with commas": "Séparez plusieurs adresses e-mail par des virgules"
+    "Separate multiple email addresses with commas": "Séparez plusieurs adresses e-mail par des virgules",
+    "aboutSlackUsername": "Modifie le nom d'affichage de l'expéditeur du message. Si vous souhaitez mentionner quelqu’un, incluez-le plutôt dans le nom convivial."
 }
